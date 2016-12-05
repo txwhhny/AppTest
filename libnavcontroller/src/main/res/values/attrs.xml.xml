@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="InnerColor" format="color"/>
+    <attr name="OuterColor" format="color"/>
+    <attr name="BackgroundColor" format="color"/>
+    <attr name="IsLocked" format="boolean"/>
+    <declare-styleable name="NavController">
+        <attr name="BackgroundColor"/>
+        <attr name="InnerColor"/>
+        <attr name="OuterColor"/>
+        <attr name="IsLocked"/>
+    </declare-styleable>
+</resources>
