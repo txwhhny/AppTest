@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity implements TextViewTest.OnTe
 
     @Override
     public void onTextViewTestClicked() {
-        Toast.makeText(MainActivity.this, "这是测试文本", Toast.LENGTH_SHORT).show();
+        Toast.makeText(MainActivity.this, "这是测试文本。", Toast.LENGTH_SHORT).show();
     }
 
     @Override
