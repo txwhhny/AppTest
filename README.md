@@ -3,4 +3,4 @@
 
 标题测试
 ===
-[app](app)
+[app](app/build.gradle)
